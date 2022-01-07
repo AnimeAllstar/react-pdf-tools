@@ -1,6 +1,23 @@
-# Getting Started with Create React App
+# React PDF Tools <img src="https://user-images.githubusercontent.com/39626451/148492773-718ecfc0-c859-4f5d-9763-781b8d72a157.png" alt="React PDF Tools icon" width="40" height="40" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live at : [reactpdftools.netlify.app](https://reactpdftools.netlify.app) | deployed using [netlify](https://www.netlify.com)
+
+## Why?
+
+I run a windows laptop that doesn't have an in-built way to merge/manipulate pdfs. I usually use [ilovepdf](https://www.ilovepdf.com) to manipulate pdfs but although it is "free", it has a few caviats:
+
+- It is **slow**: Merging PDFs takes way too much when you have many PDFs because the files are uploaded to a server rather than merged client-side.
+- It is not entirely **"free"**: the free version of ilovepdf has a limit of 100 MB and 25 files for a merging a PDF, which is enough for most use cases but not all. You need a premium subscription to manipulate large/many files. Many tools like 'WORD to PDF' have a limits as low as 15 MB.
+
+React PDF Tools aims to combat these limitions by providing users with a free, fast and easy to use way to manipulate PDF files client-side. It is open-source, has no pesky file size/quantity limitions and is much much faster.
+
+## Current features
+
+- Merge PDFs
+
+## Contributing
+
+Create an issue or make a pull request for any bugs, feature requests or improvements. Let's make React PDF Tools better together!
 
 ## Available Scripts
 
@@ -8,63 +25,16 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Runs the app in the development mode at [localhost:3000](http://localhost:3000).
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the test runner in the interactive watch mode.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Builds the app for production to the `build` folder.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Credits
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- React PDF Tools icon made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com)
