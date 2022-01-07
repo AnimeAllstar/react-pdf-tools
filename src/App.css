@@ -1,8 +1,5 @@
 .list-group-item {
   cursor: move;
-  cursor: grab;
-  cursor: -moz-grab;
-  cursor: -webkit-grab;
 }
 
 .list-group-item .delete-btn {
