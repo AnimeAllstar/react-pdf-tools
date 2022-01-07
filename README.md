@@ -4,12 +4,12 @@ Live at : [reactpdftools.netlify.app](https://reactpdftools.netlify.app) | deplo
 
 ## Why?
 
-I run a windows laptop that doesn't have an in-built way to merge/manipulate pdfs. I usually use [ilovepdf](https://www.ilovepdf.com) to manipulate pdfs but although it is "free", it has a few caviats:
+I run a windows laptop that doesn't have an in-built way to merge/manipulate pdfs. I usually use [ilovepdf](https://www.ilovepdf.com) to manipulate pdfs but although it is "free", it has a few caveats:
 
 - It is **slow**: Merging PDFs takes way too much when you have many PDFs because the files are uploaded to a server rather than merged client-side.
-- It is not entirely **"free"**: the free version of ilovepdf has a limit of 100 MB and 25 files for a merging a PDF, which is enough for most use cases but not all. You need a premium subscription to manipulate large/many files. Many tools like 'WORD to PDF' have a limits as low as 15 MB.
+- It is not entirely **"free"**: the free version of ilovepdf has a limit of 100 MB and 25 files for a merging a PDF, which is enough for most use cases but not all. You need a premium subscription to manipulate large/many files. Many tools like 'WORD to PDF' have limits as low as 15 MB.
 
-React PDF Tools aims to combat these limitions by providing users with a free, fast and easy to use way to manipulate PDF files client-side. It is open-source, has no pesky file size/quantity limitions and is much much faster.
+React PDF Tools aims to combat these limitations  by providing users with a free, fast and easy to use way to manipulate PDF files client-side. It is open-source, has no pesky file size/quantity limitations  and is much much faster.
 
 ## Current features
 
