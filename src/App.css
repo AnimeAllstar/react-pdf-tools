@@ -14,3 +14,11 @@
 .delete-btn:hover .delete-btn-icon {
   color: #dc3545;
 }
+
+.link-dark:hover {
+  color: #0d6efd;
+}
+
+.big-text {
+  font-size: 18px;
+}
