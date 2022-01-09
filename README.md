@@ -16,7 +16,7 @@ React PDF Tools aims to combat these limitations  by providing users with a free
 
 - [Merge PDFs](https://reactpdftools.netlify.app/merge)
 
-## Live Demo
+## Live At
 
 [reactpdftools.netlify.app](https://reactpdftools.netlify.app) - deployed using [netlify](https://www.netlify.com).
 
