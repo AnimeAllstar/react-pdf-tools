@@ -23,7 +23,6 @@
     "test": "react-scripts test"
   },
   "engines": {
-    "npm": ">=8.1.2",
     "node": ">=16.13.1"
   },
   "eslintConfig": {
