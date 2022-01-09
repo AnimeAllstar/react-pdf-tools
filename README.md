@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="https://user-images.githubusercontent.com/39626451/148492773-718ecfc0-c859-4f5d-9763-781b8d72a157.png" alt="React PDF Tools icon" height="60" /></a></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/39626451/148492773-718ecfc0-c859-4f5d-9763-781b8d72a157.png" alt="React PDF Tools icon" height="60" /></p>
 
 <h1 align="center">React PDF Tools</h1>
 <p align="center">A free, fast and easy to use way to manipulate PDF files client-side.</p>
@@ -14,7 +14,7 @@ React PDF Tools aims to combat these limitations  by providing users with a free
 
 ## Current features
 
-- Merge PDFs
+- [Merge PDFs](https://reactpdftools.netlify.app/merge)
 
 ## Live Demo
 
