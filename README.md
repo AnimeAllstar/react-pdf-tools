@@ -37,6 +37,7 @@ In the project directory, you can run:
 
 - [React](https://reactjs.org) - used to create UI
 - [PDF-LIB](https://pdf-lib.js.org) - used to manipulate PDFs
+- [@dropzone-ui/react](https://www.npmjs.com/package/@dropzone-ui/react) - used to upload PDFs
 
 ## Contributing
 
